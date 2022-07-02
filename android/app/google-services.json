@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "66368986032",
+    "firebase_url": "https://taximat-189d3-default-rtdb.firebaseio.com",
+    "project_id": "taximat-189d3",
+    "storage_bucket": "taximat-189d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66368986032:android:ae951dd24f7fdf6f7ed475",
+        "android_client_info": {
+          "package_name": "com.testclientapp.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66368986032-4giunipvvlj577b62c5l6s2cfb79cg3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testclientapp.demo",
+            "certificate_hash": "5fdf91a86051fd56f469a6a36dcc78127f9f2e83"
+          }
+        },
+        {
+          "client_id": "66368986032-g2umo83pbke8dleb1sq2e0026q2jh3v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testclientapp.demo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "66368986032-p3ec99auh5fvoe1sgqfqgir6qolrsngc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBewf8Kj16bsPbwnlfw-NVb1JMZvlexs2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66368986032-p3ec99auh5fvoe1sgqfqgir6qolrsngc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "66368986032-8kkkr1vjtuua0ilbcu3vh05v9nsorobk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.taximat.client"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

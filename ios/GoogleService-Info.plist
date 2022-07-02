@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>903978324153-tef889pn6m2qqrkcrgrielml0dn048cm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.903978324153-tef889pn6m2qqrkcrgrielml0dn048cm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>903978324153-866vrf7cd09kqg027b2etuk8l5juep2d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByQbvagqE4WmNLwarHtsmFsQXj1VeiESA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>903978324153</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Zojayn</string>
+	<key>PROJECT_ID</key>
+	<string>nikahnama</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nikahnama.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:903978324153:ios:c8ae54c9ae8e8441d14b68</string>
+	<key>DATABASE_URL</key>
+	<string>https://nikahnama-default-rtdb.firebaseio.com</string>
+	<!--  -->
+	<key>LSApplicationQueriesSchemes</key>
+<array>
+    <string>comgooglemaps</string>
+    <string>citymapper</string>
+    <string>uber</string>
+    <string>lyft</string>
+    <string>transit</string>
+    <string>truckmap</string>
+    <string>waze</string>
+    <string>yandexnavi</string>
+    <string>moovit</string>
+    <string>yandextaxi</string>
+    <string>yandexmaps</string>
+    <string>kakaomap</string>
+    <string>szn-mapy</string>
+    <string>mapsme</string>
+    <string>osmandmaps</string>
+    <string>gett</string>
+    <string>nmap</string>
+    <string>dgis</string>
+</array>
+	<!--  -->
+</dict>
+</plist>

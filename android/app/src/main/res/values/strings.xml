@@ -1,0 +1,5 @@
+<resources>
+    <string name="facebook_app_id">284615646829564</string>
+    <string name="fb_login_protocol_scheme">fb284615646829564</string>
+    <string name="app_name">Taximat Client</string>
+</resources>
